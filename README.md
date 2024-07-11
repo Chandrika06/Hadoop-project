@@ -1,4 +1,6 @@
-# Hadoop-project
+#Customer Segmentation in Online retail 
+
+#Hadoop-project
 
 *This project mainly focused on developing customer segments for a UK based online store, selling unique all occasion gifts.*
 
